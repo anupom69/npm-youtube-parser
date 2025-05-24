@@ -18,7 +18,7 @@
   "description": "Fetch and parse recent YouTube videos from a channel using the public XML feed.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/youtube-feed-parser.git"
+    "url": "https://github.com/anupom69/npm-youtube-parser.git"
   },
   "author": "Trinity",
   "license": "MIT",
